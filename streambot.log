@@ -1,0 +1,221 @@
+[28/04/2024 23:21:10] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662ed9e1ed7c4da00f5d88bb, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662ed9e1ed7c4da00f5d88bb"}, "remainingTimeMS": 29}
+[28/04/2024 23:21:51] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:23:07] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662eda5835acfd6bce33edc3, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662eda5835acfd6bce33edc3"}, "remainingTimeMS": 29}
+[28/04/2024 23:24:18] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:26:28] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edb224e417683a96f9f04, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edb224e417683a96f9f04"}, "remainingTimeMS": 29}
+[28/04/2024 23:28:30] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:28:53] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edbaedf1dba3b4818b0bb, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edbaedf1dba3b4818b0bb"}, "remainingTimeMS": 29}
+[28/04/2024 23:29:33] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:29:44] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edbe465940d1baa113056, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edbe465940d1baa113056"}, "remainingTimeMS": 29}
+[28/04/2024 23:30:56] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:31:06] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edc39647ba2e1c7066a3a, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edc39647ba2e1c7066a3a"}, "remainingTimeMS": 29}
+[28/04/2024 23:31:39] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py:348} ERROR - 
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 324, in handler_worker
+    if args is None:
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 324, in handler_worker
+    if args is None:
+  File "/usr/lib/python3.8/bdb.py", line 88, in trace_dispatch
+    return self.dispatch_line(frame)
+  File "/usr/lib/python3.8/bdb.py", line 113, in dispatch_line
+    if self.quitting: raise BdbQuit
+bdb.BdbQuit
+[28/04/2024 23:31:40] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:32:03] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edc6d560ae4102210533c, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edc6d560ae4102210533c"}, "remainingTimeMS": 29}
+[28/04/2024 23:33:40] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:33:55] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edcdc9c124e57ef807f2b, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edcdc9c124e57ef807f2b"}, "remainingTimeMS": 29}
+[28/04/2024 23:34:01] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:40:11] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662ede578ea2f20ee3be4355, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662ede578ea2f20ee3be4355"}, "remainingTimeMS": 29}
+[28/04/2024 23:43:01] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:43:45] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edf2b39eb3a6d2d39cfe5, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edf2b39eb3a6d2d39cfe5"}, "remainingTimeMS": 29}
+[28/04/2024 23:44:02] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:44:30] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edf59062c644b5c8cb071, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edf59062c644b5c8cb071"}, "remainingTimeMS": 29}
+[28/04/2024 23:44:42] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:46:14] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662edfbfc33e56e98b7d6045, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662edfbfc33e56e98b7d6045"}, "remainingTimeMS": 29}
+[28/04/2024 23:46:22] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:47:48] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662ee02177de4a1c1f5245b9, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662ee02177de4a1c1f5245b9"}, "remainingTimeMS": 29}
+[28/04/2024 23:47:56] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/utilities/idle.py:76} INFO - Stop signal received (SIGINT). Exiting...
+[28/04/2024 23:48:55] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662ee05d62c5816d79ea7939, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662ee05d62c5816d79ea7939"}, "remainingTimeMS": 29}
+[28/04/2024 23:54:52] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662ee1c42ec85182361ba7ea, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662ee1c42ec85182361ba7ea"}, "remainingTimeMS": 29}
+[29/04/2024 00:01:57] {/root/filre/venv/lib/python3.8/site-packages/aiohttp/web_protocol.py:421} ERROR - Error handling request
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/aiohttp/web_protocol.py", line 350, in data_received
+    messages, upgraded, tail = self._request_parser.feed_data(data)
+  File "aiohttp/_http_parser.pyx", line 557, in aiohttp._http_parser.HttpParser.feed_data
+aiohttp.http_exceptions.BadStatusLine: 400, message:
+  Invalid method encountered:
+
+    b'\x16\x03\x01'
+      ^
+[29/04/2024 00:07:50] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662ee1c42ec85182361ba7ed, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662ee1c42ec85182361ba7ed"}, "remainingTimeMS": 29}
+[29/04/2024 00:07:50] {/root/filre/venv/lib/python3.8/site-packages/pymongo/logger.py:96} INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 662ee1c32ec85182361ba7e7, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-elw8qhl-shard-00-00.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-01.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-elw8qhl-shard-00-02.5aqpdug.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "662ee1c32ec85182361ba7e7"}, "remainingTimeMS": 29}
+[29/04/2024 00:07:50] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py:342} ERROR - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 176, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002071250041'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 329, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/handlers/message_handler.py", line 151, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/root/filre/FileStream/bot/plugins/stream.py", line 39, in private_receive_handler
+    await get_file_ids(False, inserted_id, multi_clients, message)
+  File "/root/filre/FileStream/utils/file_properties.py", line 22, in get_file_ids
+    log_msg = await send_file(FileStream, db_id, file_info['file_id'], message)
+  File "/root/filre/FileStream/utils/file_properties.py", line 130, in send_file
+    log_msg = await client.send_cached_media(chat_id=Telegram.FLOG_CHANNEL, file_id=file_id,
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/messages/send_cached_media.py", line 152, in send_cached_media
+    peer=await self.resolve_peer(chat_id),
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 405, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    RPCError.raise_it(result, type(data))
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/errors/rpc_error.py", line 92, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[29/04/2024 00:19:26] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py:342} ERROR - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 176, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002071250041'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 329, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/handlers/message_handler.py", line 151, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/root/filre/FileStream/bot/plugins/start.py", line 19, in start
+    if not await verify_user(bot, message):
+  File "/root/filre/FileStream/utils/bot_utils.py", line 224, in verify_user
+    await is_user_exist(bot, message)
+  File "/root/filre/FileStream/utils/bot_utils.py", line 203, in is_user_exist
+    await bot.send_message(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/messages/send_message.py", line 175, in send_message
+    peer=await self.resolve_peer(chat_id),
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 405, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    RPCError.raise_it(result, type(data))
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/errors/rpc_error.py", line 92, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[29/04/2024 00:19:59] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py:342} ERROR - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 176, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002071250041'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 329, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/handlers/message_handler.py", line 151, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/root/filre/FileStream/bot/plugins/stream.py", line 39, in private_receive_handler
+    await get_file_ids(False, inserted_id, multi_clients, message)
+  File "/root/filre/FileStream/utils/file_properties.py", line 22, in get_file_ids
+    log_msg = await send_file(FileStream, db_id, file_info['file_id'], message)
+  File "/root/filre/FileStream/utils/file_properties.py", line 130, in send_file
+    log_msg = await client.send_cached_media(chat_id=Telegram.FLOG_CHANNEL, file_id=file_id,
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/messages/send_cached_media.py", line 152, in send_cached_media
+    peer=await self.resolve_peer(chat_id),
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 405, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    RPCError.raise_it(result, type(data))
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/errors/rpc_error.py", line 92, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[29/04/2024 00:20:24] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py:342} ERROR - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 176, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002071250041'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 329, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/handlers/message_handler.py", line 151, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/root/filre/FileStream/bot/plugins/stream.py", line 39, in private_receive_handler
+    await get_file_ids(False, inserted_id, multi_clients, message)
+  File "/root/filre/FileStream/utils/file_properties.py", line 22, in get_file_ids
+    log_msg = await send_file(FileStream, db_id, file_info['file_id'], message)
+  File "/root/filre/FileStream/utils/file_properties.py", line 130, in send_file
+    log_msg = await client.send_cached_media(chat_id=Telegram.FLOG_CHANNEL, file_id=file_id,
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/messages/send_cached_media.py", line 152, in send_cached_media
+    peer=await self.resolve_peer(chat_id),
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 405, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    RPCError.raise_it(result, type(data))
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/errors/rpc_error.py", line 92, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[29/04/2024 00:22:56] {/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py:342} ERROR - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 63, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 176, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: -1002071250041'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 329, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/handlers/message_handler.py", line 151, in resolve_future_or_callback
+    await self.original_callback(client, message, *args)
+  File "/root/filre/FileStream/bot/plugins/start.py", line 19, in start
+    if not await verify_user(bot, message):
+  File "/root/filre/FileStream/utils/bot_utils.py", line 224, in verify_user
+    await is_user_exist(bot, message)
+  File "/root/filre/FileStream/utils/bot_utils.py", line 203, in is_user_exist
+    await bot.send_message(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/messages/send_message.py", line 175, in send_message
+    peer=await self.resolve_peer(chat_id),
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 113, in resolve_peer
+    await self.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/methods/advanced/invoke.py", line 80, in invoke
+    r = await self.session.invoke(
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 405, in invoke
+    return await self.send(query, timeout=timeout)
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/session/session.py", line 362, in send
+    RPCError.raise_it(result, type(data))
+  File "/root/filre/venv/lib/python3.8/site-packages/pyrogram/errors/rpc_error.py", line 92, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
